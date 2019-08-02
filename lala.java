@@ -8,3 +8,4 @@ String commit6
 
 branch in branch
 commit b1;
+commit b2;
