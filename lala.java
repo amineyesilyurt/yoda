@@ -1,6 +1,6 @@
-String commit1= "master 5";
+String commit1= "master 6";
 String commit2=";
 String commit3=";
-String commit4="developer 5";
+String commit4="master 6";
 String commit5="";
 String commit6
