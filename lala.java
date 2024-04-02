@@ -1,7 +1,7 @@
 String commit1= "dev JEDI";
 String commit2=";
 String commit3=";
-String commit4="developer JEDI feaures added Version NEW 1.1.0";
+String commit4="developer JEDI feaures added Version NEW 1.1.1";
 String commit5="";
 String commit6
 dev feature 1
